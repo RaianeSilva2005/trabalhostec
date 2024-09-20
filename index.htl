@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Just+Me+Again+Down+Here&display=swap" rel="stylesheet">
+    <title>As aventuras de serafim</title>
+</head>
+<body>
+
+ <main>  
+
+    <div class="passo" id="passo-0" >
+        <p> 
+Serafim é um anjo encarregado de coletar as almas dos mortos para equilibrar o mundo espiritual,porém uma delas se recusa a aceitar o seu destino e foge fazendo com que a jornada de serafim se inicie.
+
+        </p>
+        <button class="btn-proximo" date-proximo="1">procurar no hospital</button>
+        <button class="btn-proximo" date-proximo="2">pedir ajuda para um ceifador</button>
+    </div>
